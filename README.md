@@ -4,9 +4,9 @@
 
 > **注**: 由于本人于2024年5月进组学习，在七月时完成了STM32裸机开发学习，对我负责的部分（基于STM32F407裸机开发）进行开源，其中ROS通信以及视觉部分由师兄负责，相关文件无权介绍，仅仅给出了框架。
 
-![image-20260514160121608](C:\Users\YXty\AppData\Roaming\Typora\typora-user-images\image-20260514160121608.png)
+![功能](./images/1.png)
 
-![image-20260514172130465](C:\Users\YXty\AppData\Roaming\Typora\typora-user-images\image-20260514172130465.png)
+![功能](./images/2.png)
 
 ---
 
